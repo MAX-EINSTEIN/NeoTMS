@@ -1,0 +1,6 @@
+# .NET Build Files
+*bin/
+*obj/
+
+# VS Code
+.vscode/
